@@ -14,7 +14,7 @@
 ![URL](https://cdn.discordapp.com/attachments/844973689292193824/953939707341963354/unknown.png) </br>
 - Select " Body " </br>
 ![body](https://user-images.githubusercontent.com/83529331/158773411-149f77a2-3164-4917-ad3d-a9cf7769997a.png) </br>
-- After Select Body Now Select " Raw " And " Json " </br>
+- Now Select " Raw " And " Json " </br>
 ![Type](https://user-images.githubusercontent.com/83529331/158773644-ca95de1b-213d-4389-b5dc-f6e43421904c.png)
 - Now You Should Write Your Embed Content In Postman Editor, Like This: 
 ```json
