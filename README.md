@@ -1,4 +1,4 @@
-# [Postman-Webhook](https://discord.gg/KeuBYBbErh)         ![Stars](https://img.shields.io/github/stars/Pyr33x/Postman-Webhook)
+# [Postman-Webhook](https://discord.gg/KeuBYBbErh)
 > <strong>Send A Webhook Message ( Embed / Content ) With Postman</strong>
 </br>
 <div align="center">
