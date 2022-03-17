@@ -3,8 +3,8 @@
 </br>
 
 ## You Need:
-[PostMan](https://www.postman.com/downloads)
-[Discord](https://discord.com/download)
+- [**Postman**](https://www.postman.com/downloads) </br>
+- [**Discord**](https://discord.com/download)
 </br>
 
 ## Getting Started
