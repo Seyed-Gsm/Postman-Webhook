@@ -2,6 +2,11 @@
 > Send A Webhook Message ( Embed / Content ) With Postman
 </br>
 
+## You Need:
+[PostMan](https://www.postman.com/downloads)
+[Discord](https://discord.com/download)
+</br>
+
 ## Getting Started
 - Create A Request ( Request Type " POST " ) </br>
 ![POST](https://cdn.discordapp.com/attachments/844973689292193824/953939259662958592/unknown.png) </br>
